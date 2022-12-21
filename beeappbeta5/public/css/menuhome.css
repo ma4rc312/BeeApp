@@ -1,0 +1,213 @@
+.logobee {
+    display: flex;
+    width: 5em;
+    height: 3em;
+}
+
+
+.inicio {
+    
+    width: 3em;
+    height: 20px;
+    text-align: center;
+}
+
+.inicio:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(3, 3, 3);
+    background: #FFBE33;
+    border-radius: 10px;
+
+}
+
+.tienda {
+    
+    width: 3.5em;
+    height: 20px;
+    text-align: center;
+}
+
+.tienda:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(3, 3, 3);
+    background: #FFBE33;
+    border-radius: 10px;
+
+
+}
+
+.contactos{
+    
+    width: 6em;
+    height: 20px;
+    text-align: center;
+}
+
+.contactos:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background:  #FFBE33;
+    border-radius: 10px;
+
+}
+
+.cerrar{
+    
+    width: 6em;
+    height: 20px;
+    text-align: center;
+}
+
+.cerrar:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background:  #FFBE33;
+    border-radius: 10px;
+
+}
+
+.apicultor{
+    
+    width: 9em;
+    height: 20px;
+    text-align: center;
+}
+
+.apicultor:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+.registro {
+    
+    width: 4em;
+    height: 20px;
+    text-align: center;
+}
+
+.registro:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+.iniciar{
+    
+    width: 6em;
+    height: 20px;
+    text-align: center;
+}
+
+.iniciar:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+.perfil {
+    
+    width: 3em;
+    height: 20px;
+    text-align: center;
+}
+.perfil:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background:  #FFBE33;
+    border-radius: 10px;
+
+}
+.carrito{
+    width: 3em;
+    height: 2em;
+    text-align: center;
+}
+
+.carrito:hover{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+
+.texto {
+    justify-content: center;
+    text-decoration: none;
+    color: #FFBE33; 
+    font-size: 15px;
+    height: 25px;
+}
+
+.texto:hover {
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+}
+.texto1 {
+    justify-content: center;
+    text-decoration: none;
+    color: #FFBE33; 
+    font-size: 15px;
+    height: 25px;
+}
+
+.texto1:hover {
+    color: #222831;
+    text-decoration: none;
+}
+.texto2 {
+    justify-content: center;
+    text-decoration: none;
+    color: #FFBE33; 
+    font-size: 15px;
+    height: 25px;
+   
+}
+
+.texto2:hover {
+    color: #FFBE33;
+    text-decoration: none;
+}
+
+.textocarrito {
+    text-decoration: none;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    height: 25px;
+    width: 5em;
+}
+
+.textocarrito:hover {
+    color:  #222831;
+    background: #FFBE33;
+    text-decoration: none;
+    border-radius: 10px;
+}
+

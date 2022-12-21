@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: 1;
+}
+body{
+    background-color: #222831;
+}
+
+.text{
+    color: #222831;
+    font-size: 18px;
+}
+
+.text2{
+    color:black;
+}
+
+.form-registro{
+    width: 400px;
+    background:white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: orange;
+    box-shadow: 6px 3px orange;
+}
+.titulo{
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #222831;
+    font-family: 'Arial Narrow Bold';
+}
+.control{
+    width: 100%;
+    height: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid orange;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: orange;
+}
+.form-registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+.form-registro a{
+    color: orange;
+    text-decoration: none;
+}
+.form-registro a :hover{
+    color:orange;
+    text-decoration: underline;
+}
+.form-registro .boton{
+    width: 100%;
+    background: orange;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 25px;
+    border-radius: 8px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}

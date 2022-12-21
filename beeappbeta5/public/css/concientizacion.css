@@ -1,0 +1,19 @@
+.titulo{
+    color: #222831;
+    text-align: center  ;
+    font-weight: bold;
+}
+.video{
+    color: green;
+    
+    align-content: center;
+    text-align: center;
+    margin-left: 300px;
+}
+.texto{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

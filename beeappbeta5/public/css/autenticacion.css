@@ -1,0 +1,34 @@
+.fondo{
+    color: white;
+    background: orange;
+    margin-left: 90px;
+    width: 8em;
+    height: 2em;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+
+.inputs{
+    background: rgb(255, 255, 255);
+    width: 25em;
+    
+}
+.formulario{
+    height: 20em;
+    background:#ffffff;
+}
+
+.texto{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.texto2{
+    color: orange;
+    font-size: 16px;
+    margin-bottom: 10px;
+}

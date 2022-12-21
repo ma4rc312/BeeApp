@@ -1,0 +1,102 @@
+.texto2 {
+    font-size: 50px;
+    color: orange;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+.fondo2 {
+    background: orange;
+    color: white;
+    width: 8em;
+    height: 2em;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-right: 506px;
+}
+
+.fondo3 {
+    background: orange;
+    color: white;
+    width: 12em;
+    height: 2em;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.nombre_p {
+    color: black;
+    font-size: 30px;
+}
+
+.fondo4 {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 8em;
+    height: 2em;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    border: solid orange;
+    margin-right: 5px;
+
+}
+
+.fondo5 {
+    color: white;
+    background: orange;
+    width: 12em;
+    text-align: center;
+    height: 40px;
+    align-content: center;
+    font-size: 15px;
+    border-radius: 15px;
+
+
+}
+
+.fondo6 {
+    background: orange;
+    color: rgb(0, 0, 0);
+    width: 10em;
+    height: 2em;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    border: solid orange;
+    margin-right: 5px;
+
+}
+
+.card-drop {
+    width: 20em;
+
+}
+
+.total {
+    background: rgb(255, 255, 255);
+    color: orange;
+    width: 8em;
+    height: 3em;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 5px;
+
+}
+
+#ircarrito {
+    text-align: center;
+    width: 500px;
+    margin-top: 8px;
+    color: #222831;
+    border-radius: 5px;
+    border: solid 1px #222831;
+}
+
+#ircarrito:hover {
+    color: orange;
+
+}

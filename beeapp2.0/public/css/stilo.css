@@ -1,0 +1,238 @@
+/*h1 { font-size: 66px; color: #353030; font-weight:600; line-height: 80px;}
+h2 { font-size: 48px; margin-bottom: 30px;}
+p { font-size: 22px; color: #5f5a5a; line-height: 1.8; margin-bottom: 0;}
+
+section{padding: 80px 0;}
+
+.topmargin-xs{margin-top: 15px;}
+.topmargin-sm{margin-top: 30px;}
+.topmargin-lg{margin-top: 60px;}
+
+body {
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+/* colocamos un color de fondo blanco, una sombra, altura mínima de 100 px*/
+/*.navbar{
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    z-index: 2;
+}
+/*Cambiamos a color negro los links */
+/*.nav-link {color: #1a1a1a}
+/*Cambiamos a color negro cuando el usuario pase por los links */
+/*.nav-link:hover {color: #1a1a1a}
+
+.logo-brand {min-width: 80px;
+    max-width: 80px;
+}
+
+#hero {
+   background-image: url("../images/hero.jpg");
+   background-size: cover;
+   padding-top: 90px;
+   min-height: 700px;
+   color: var(#ffffff);
+}
+
+#hero p {
+    color: #3f3b3b;
+}
+.content-center{
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+
+/*Portafolio 2 imagenes */
+
+/*.portfolio-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.portfolio-container img {
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+    width: 100%;
+}
+
+.portfolio-container:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.portfolio-details {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 1;
+}
+
+.portfolio-details h2 {
+    margin-bottom: 0px;
+}
+
+.portfolio-details a h2, .portfolio-details a p {
+    color: var(--white-color);
+}
+
+/*Footer*/
+/*footer {
+    padding: 80px 0;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+}
+
+
+
+footer .list-inline .list-inline-item {
+    padding: 10px 15px;
+}
+
+
+
+@media (max-width: 575.98px) { 
+    h1 { font-size: 40px; line-height: normal; }
+    .portfolio-details h2 { font-size: 32px; }
+    .plans { min-width: unset; padding: 40px; }
+    .carousel-item p { font-size: 20px; }
+
+    .footer-menu { 
+        display: block !important;
+        padding: 20px 0 !important;
+        font-size: 20px;
+    
+    }
+}
+
+/*@media (min-width: 576px) and (max-width: 767.98px) { }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .portfolio-details h2 { font-size: 30px; }
+    .plans { min-width: unset; padding: 40px 20px;}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+@media (min-width: 1200px) { }*/
+
+
+#nav{
+    height: 6em;
+    background: #150e0e;
+    width:100%;
+  
+    
+}
+
+/*nav li:hover {
+    width: 10em;
+    height: 3em;
+    background-color: rgb(207, 25, 98); /*cada vez q se pase el mauseencima de el menu cambieel color*/  
+
+nav ul{
+    width: 100%;
+    background-repeat: repeat x;
+    list-style: none;
+   
+    
+    } 
+
+    .menu li{
+        display: inline-block;
+        list-style: none;
+        font: bold 17px verdana, sans-serif;
+        margin: 0.1em;
+        margin-left: 4em;
+        margin-top: 1em;
+        
+    
+}  
+
+.menu a{
+margin-top: 1em;
+font-family:cursive;
+    color: #ff9300;
+    text-decoration: none;
+   margin-left: 1em;
+    font-size:14px;
+  } 
+
+
+.menu{
+margin-left:5em;
+}
+
+
+  .img_logo{
+    width: 4em;
+    height: 5em;
+  }
+
+.sub{
+    height: 100%;
+    width: 100%;
+    stroke: none; 
+    fill: rgb(150, 56, 56);
+}
+
+.input {
+    color: #ff9300;
+    border: 2px solid #ff9300;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: transparent;
+    max-width: 190px;
+    margin-left: 4em;
+   }
+   
+   .input:active {
+    box-shadow: 2px 2px 15px #ff9300 inset;
+   }
+
+   .search-btn {
+    color: #ff9300;
+    border: 2px solid #ff9300;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: transparent;
+    max-width: 190px;
+  }
+  .search-btn:active {
+    box-shadow: 2px 2px 15px #ff9300 inset;
+  }
+   
+  .bee{
+    text-shadow: 0 0 0.2em rgb(119, 153, 255);
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  }
+
+.box{
+    filter: drop-shadow(0 8px 8px rgb(0,0,0,0.5));
+}
+
+.body{
+    background: #ebebeb;
+}
+
+.img_fondo{
+    object-fit: fill;
+}
+
+
+
+
+
+
+
+
